@@ -19,7 +19,6 @@ The project theme is `Property`. I will try to build a Property application, whe
 
 ### Use-cases
 
-
 1. Users were able to register and log in.
 2. Users were able to register their Properties.
     - Register the property detail
